@@ -22,7 +22,7 @@ EasyCountDownTextureView
    
 ## Gradle
 
-```groovy
+```gradle
 dependencies {
 	compile 'com.camnter.easycountdowntextureview:easycountdowntextureview:1.6'
 }
